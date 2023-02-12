@@ -36,7 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaramarques.github.io/Stage02-Projeto02-Treine.me/)
+- [Visite o projeto online](https://iaraMarques.github.io/Stage02-Desafio03-Rocket.sect/)
+
+<br/>
 
 ## 🔖 Layout
 
