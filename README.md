@@ -34,9 +34,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <li>Acessibilidade e Refatoração</li>
   </ul>
       
-
-
 <br/>
+
+- [Visite o projeto online](https://iaramarques.github.io/Stage02-Projeto02-Treine.me/)
 
 ## 🔖 Layout
 
