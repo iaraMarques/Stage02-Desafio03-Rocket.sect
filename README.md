@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📂 Projeto
 
 <p align="center">
-  O Desafio 03 é uma criação de uma Landing-Page básica para fotalecer nosso conhecimento sobre alguns conceitos aprendidos em aula na Rocketseat, entre eles:
+  O Desafio 03 é uma criação de uma Landing-Page básica para fortalecer nosso conhecimento sobre alguns conceitos aprendidos em aula na Rocketseat, entre eles:
 </p>
 
 
