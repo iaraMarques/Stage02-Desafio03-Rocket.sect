@@ -6,7 +6,7 @@
   <img alt="Projeto envolvendo HTMl e CSS" src="images/homepage.png" width="100%">
 </p>
 
-## 🖥️ Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
